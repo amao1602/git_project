@@ -1,10 +1,10 @@
 package com.student.model;
 
 public class StudentModel {
-	private int id;
-	private String name;
-	private int sex;
-	private int age;
+	private int id;//id
+	private String name;//姓名
+	private int sex;//性别
+	private int age;//年龄
 
 	@Override
 	public String toString() {
